@@ -9,7 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "@microsoft/fetch-event-source": "^2.0.1",
+    "ant-design-vue": "^4.2.6",
+    "dompurify": "^3.2.4",
+    "marked": "^15.0.7",
+    "vue": "^3.4.21",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
